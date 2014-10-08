@@ -13,7 +13,7 @@ if(get_magic_quotes_gpc()) {
     $message = stripslashes($message);
 }
 
-$address = "benito.andrade@serviciosintegrales.com.mx";
+$address = "ventas@serviciosintegrales.com.mx";
 
 
 $is_subject = $subject;
